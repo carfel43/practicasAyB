@@ -1,0 +1,22 @@
+[
+    {
+        "auto" : "citroen",
+        "modelos": "c3",
+        "patente": "AA E1423",
+        "anios":2023
+    },
+    {
+        
+        "auto" : "PEUGEOT",
+        "modelos": "504",
+        "patente": "E2313",
+        "anios":2004
+    },
+    {
+        
+        "auto" : "ford",
+        "modelos": "focus",
+        "patente": "AA 2134",
+        "anios":2020
+    }
+]
